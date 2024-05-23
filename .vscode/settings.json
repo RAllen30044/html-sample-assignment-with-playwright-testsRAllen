@@ -1,5 +1,46 @@
 {
   "liveServer.settings.CustomBrowser": "chrome",
   "liveServer.settings.port": 5551,
-  "cSpell.words": ["devslopes"]
+  "cSpell.words": [
+    "devslopes"
+  ],
+  "cSpell.ignoreWords": [
+    "Atque",
+    "Dolorum",
+    "Sequi",
+    "adipisicing",
+    "amet",
+    "animi",
+    "assumenda",
+    "atque",
+    "commodi",
+    "consectetur",
+    "corrupti",
+    "eius",
+    "eligendi",
+    "elit",
+    "exercitationem",
+    "incidunt",
+    "ipsa",
+    "labore",
+    "laborum",
+    "molestias",
+    "necessitatibus",
+    "nesciunt",
+    "odit",
+    "omnis",
+    "perferendis",
+    "placeat",
+    "possimus",
+    "quibusdam",
+    "quidem",
+    "ratione",
+    "repellendus",
+    "rerum",
+    "sunt",
+    "unde",
+    "veniam",
+    "vero",
+    "voluptatum"
+  ]
 }
